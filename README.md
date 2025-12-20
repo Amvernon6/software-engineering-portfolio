@@ -28,18 +28,27 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 
 - Developed an Android application for storing, sharing, and discovering recipes to address gaps in existing recipe platforms  
 - Implemented ingredient-based search, difficulty and time ratings, user-uploaded photos, and other user-centric features  
-- Integrated Instacart and third-party APIs to retrieve recipe data and generate automated shopping lists  
+- Integrated Instacart and other third-party APIs to retrieve recipe data and generate automated shopping lists  
 - Designed and implemented search functionality and a personalized recommendation algorithm  
 - Placed **2nd** in the final capstone presentation among peer teams  
 
 🔗 *Repository link coming soon*
+
+### 🚗 Wisconsin Autonomous Club — Autonomous Vehicle Software
+**Tech Stack:** C++, Python, PyTorch, Machine Learning  
+
+- Collaborating on transforming a Chevrolet Bolt into a fully autonomous vehicle for the AutoDrive Challenge II  
+- Leading development of an object detection module, training models in Python and deploying them in a C++ runtime for real-time inference  
+- Contributed to a team that achieved **2nd place overall** in Spring 2025 through strong technical execution and teamwork  
+
+🔗 Private Repository 
 
 ---
 
 ## 📫 Contact
 
 - **Email:** ashtonvernon04@gmail.com  
-- **LinkedIn:** [*LinkedIn Profile*] (https://www.linkedin.com/in/ashton-vernon-2b9a92187/)
+- **LinkedIn:** https://www.linkedin.com/in/ashton-vernon-2b9a92187/
 
 ---
 
