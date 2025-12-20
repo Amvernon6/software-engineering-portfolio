@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Ashton Vernon
 
-Welcome to my software engineering portfolio! This repository showcases a collection of academic and personal projects focused on **backend and full-stack development**, highlighting my experience building scalable systems, APIs, and data-driven applications.
+Welcome to my software engineering portfolio! This repository showcases a collection of academic and personal projects focused on **mobile and full-stack development**, highlighting my experience building scalable systems, APIs, and data-driven applications.
 
 Across these projects, I’ve worked on designing and implementing backend services, integrating third-party APIs, developing application logic, and collaborating across the full development lifecycle. My work emphasizes clean architecture, performance, and maintainability, with a strong focus on solving real-world problems through thoughtful system design.
 
