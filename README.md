@@ -21,9 +21,9 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🍽️ MealMates — Android Recipe Discovery App
+### 🍽️ MealMates — Senior Capstone Android Recipe Discovery App
 **Tech Stack:** Java, Kotlin, Android Studio, REST APIs  
 
 - Developed an Android application for storing, sharing, and discovering recipes to address gaps in existing recipe platforms  
@@ -32,9 +32,9 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 - Designed and implemented search functionality and a personalized recommendation algorithm  
 - Placed **2nd** in the final capstone presentation among peer teams  
 
-🔗 *Repository link coming soon*
+🔗 https://github.com/Amvernon6/MealMates.git
 
-### 🚗 Wisconsin Autonomous Club — Autonomous Vehicle Software
+### 🚗 Wisconsin Autonomous Club - Autonomous Vehicle Object Detection
 **Tech Stack:** C++, Python, PyTorch, Machine Learning  
 
 - Collaborating on transforming a Chevrolet Bolt into a fully autonomous vehicle for the AutoDrive Challenge II  
