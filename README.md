@@ -7,9 +7,6 @@ Welcome to my software engineering portfolio! This repository showcases a collec
 Across these projects, I’ve worked on designing and implementing backend services, integrating third-party APIs, developing application logic, and collaborating across the full development lifecycle. I enjoy designing and building software with a focus on clean architecture, performance, and long-term maintainability to solve real-world problems.
 
 ---
-## Open Source Contributions
-
-[OpenSource.md](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
 
 ## 🛠 Technical Skills
 
@@ -21,6 +18,10 @@ RESTful APIs, React, Node.js, Android (Android Studio), AWS
 
 **Tools & Practices:**  
 Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
+
+---
+
+## [Open Source Contributions](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
 
 ---
 
