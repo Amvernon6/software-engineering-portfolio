@@ -7,6 +7,8 @@ Welcome to my software engineering portfolio! This repository showcases a collec
 Across these projects, I’ve worked on designing and implementing backend services, integrating third-party APIs, developing application logic, and collaborating across the full development lifecycle. My work emphasizes clean architecture, performance, and maintainability, with a strong focus on solving real-world problems through thoughtful system design.
 
 ---
+## Open Source Contributions
+
 
 ## 🛠 Technical Skills
 
