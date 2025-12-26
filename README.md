@@ -9,7 +9,7 @@ Across these projects, I’ve worked on designing and implementing backend servi
 ---
 ## Open Source Contributions
 
-OpenSource.md
+[OpenSource.md](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
 
 ## 🛠 Technical Skills
 
