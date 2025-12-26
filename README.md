@@ -21,11 +21,9 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 
 ---
 
-## [Open Source Contributions](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
-
----
-
 ## 📂 Projects
+
+[Open Source Contributions](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
 
 ### 🍽️ MealMates — Senior Capstone Android Recipe Discovery App
 **Tech Stack:** Java, Kotlin, Android Studio, REST APIs  
