@@ -25,7 +25,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 
 [Open Source Contributions](https://github.com/Amvernon6/software-engineering-portfolio/blob/main/OpenSource.md)
 
-## 🎬 AniLog - Personal Project (In Progress)
+### 🎬 AniLog - Personal Project (In Progress)
 **Tech Stack:** Java, React, Spring Boot, RESTful APIs, GraphQL  
 
 - Users can explore anime and manga by title, genre, studio, and other filters
