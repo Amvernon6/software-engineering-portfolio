@@ -43,7 +43,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 - Designed and implemented search functionality and a personalized recommendation algorithm  
 - Placed **2nd** in the final capstone presentation among peer teams  
 
-🔗 https://github.com/Amvernon6/MealMates.git
+🔗 https://github.com/Amvernon6/MealMates
 
 ### 🚗 Wisconsin Autonomous Club - Autonomous Vehicle Object Detection
 **Tech Stack:** C++, Python, PyTorch, Machine Learning  
