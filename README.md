@@ -52,7 +52,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 - Leading development of an object detection module, training models in Python and deploying them in a C++ runtime for real-time inference  
 - Contributed to a team that achieved **2nd place overall** in Spring 2025 through strong technical execution and teamwork  
 
-🔗 Private Repository 
+🔗 https://github.com/WisconsinAutonomous
 
 ---
 
