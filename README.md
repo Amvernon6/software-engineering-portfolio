@@ -28,7 +28,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 ### 🎬 AniLog - Personal Project (In Progress)
 **Tech Stack:** Java, React, Spring Boot, AWS, GraphQL, RESTful APIs  
 
-- Users can explore anime and manga by title, genre, studio, and other filters
+- Users can explore anime and manga by title, genre, format, and other filters
 - Plan to allow users to log in, set preferences, and organize watchlists/watched lists with rankings to track their progress and tastes
 - Aim to add episode-level ratings, tailored recommendations, and anonymous reviews to help users find and evaluate anime and manga efficiently
 
@@ -46,7 +46,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 🔗 https://github.com/Amvernon6/MealMates
 
 ### 🚗 Wisconsin Autonomous Club - Autonomous Vehicle Object Detection
-**Tech Stack:** C++, Python, PyTorch, Machine Learning  
+**Tech Stack:** C++, Python, Numpy, PyTorch, Machine Learning  
 
 - Collaborating on transforming a Chevrolet Bolt into a fully autonomous vehicle for the AutoDrive Challenge II  
 - Leading development of an object detection module, training models in Python and deploying them in a C++ runtime for real-time inference  
