@@ -29,8 +29,10 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 **Tech Stack:** Java, React, Spring Boot, AWS, GraphQL, RESTful APIs  
 
 - Users can explore anime and manga by title, genre, format, and other filters
-- Plan to allow users to log in, set preferences, and organize watchlists/watched lists with rankings to track their progress and tastes
+- Allow users to log in, set preferences, and organize watchlists/watched lists with rankings to track their progress and tastes
 - Aim to add episode-level ratings, tailored recommendations, and anonymous reviews to help users find and evaluate anime and manga efficiently
+
+Live Website: https://anilog-lb1p.onrender.com/
 
 🔗 https://github.com/Amvernon6/AniLog
 
