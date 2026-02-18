@@ -30,6 +30,7 @@ Git, Agile/Scrum, SQL Databases, PyTorch, Matplotlib, VS Code, Eclipse
 
 - Users can explore anime and manga by title, genre, format, and other filters
 - Allow users to log in, set preferences, and organize watchlists/watched lists with rankings to track their progress and tastes
+- Users can Follow other users to see their watched titles and rankings
 - Aim to add episode-level ratings, tailored recommendations, and anonymous reviews to help users find and evaluate anime and manga efficiently
 
 Live Website: https://anilog-lb1p.onrender.com/
